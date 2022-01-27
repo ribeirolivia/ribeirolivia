@@ -5,12 +5,8 @@
 * Estudante de programação
 * Professora
 ----------
-<div>
-  
- ![Snake animation](https://github.com/ribeirolivia/ribeirolivia/blob/output/github-contribution-grid-snake.svg)
-</div>
-  
- ---------- 
+
+
   
 <div align="center">
   <a href="https://github.com/ribeirolivia">
@@ -49,6 +45,7 @@
   
   <a href="https://www.linkedin.com/in/liviaribeiros" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
+ ![Snake animation](https://github.com/ribeirolivia/ribeirolivia/blob/output/github-contribution-grid-snake.svg)
  
 </div>
   
